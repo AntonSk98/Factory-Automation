@@ -39,5 +39,5 @@ Java SE, EJB 3.0, Postgresql
 
 Extra info:
 
-In case you have some extra projects regarding this project, do not hesitate to contact me via email.
+In case you have some extra questions regarding this project, do not hesitate to contact me via email.
 Email: antonskripin@gmail.com
