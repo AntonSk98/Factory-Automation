@@ -1,0 +1,6 @@
+<jboss-deployment-structure>
+    <ear-subdeployments-isolated>false</ear-subdeployments-isolated>
+    <deployment>
+        <!--   Deploy extra packages here if needed     -->
+    </deployment>
+</jboss-deployment-structure>

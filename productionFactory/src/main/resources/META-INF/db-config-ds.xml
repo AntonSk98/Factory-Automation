@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<datasources>
+    <datasource jndi-name="java:jboss/database" pool-name="databasePool">
+        <connection-url>
+            jdbc:postgresql://localhost:5432/factoryautomation
+        </connection-url>
+        <driver>postgresql-42.2.22.jar</driver>
+        <driver-class>org.postgresql.Driver</driver-class>
+        <pool>
+            <max-pool-size>30</max-pool-size>
+        </pool>
+        <security>
+            <user-name>antonsk98</user-name>
+            <password>antonsk98</password>
+        </security>
+        <validation>
+            <check-valid-connection-sql>select 1</check-valid-connection-sql>
+        </validation>
+    </datasource>
+</datasources>
