@@ -1,4 +1,4 @@
-Factory Automation
+Factory Automation.
 
 This project represents a component-based management system for factory automation.
 
